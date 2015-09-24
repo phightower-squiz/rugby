@@ -1,34 +1,50 @@
 [
   {
     "Name":"Alison Van Schoor",
-    "Score":8
-  },
-  {
-    "Name":"James O'Flynn",
-    "Score":6
-  },
-  {
-    "Name":"PJ",
-    "Score":6
-  },
-  {
-    "Name":"Rebecca Fowler",
-    "Score":6
-  },
-  {
-    "Name":"Giles",
-    "Score":6
-  },
-  {
-    "Name":"Anh",
-    "Score":6
+    "Score":11
   },
   {
     "Name":"Delanthy Joachim",
-    "Score":6
+    "Score":9
+  },
+  {
+    "Name":"PJ",
+    "Score":9
+  },
+  {
+    "Name":"Anh",
+    "Score":9
+  },
+  {
+    "Name":"Tom Finden",
+    "Score":9
   },
   {
     "Name":"Sam Arnold",
+    "Score":9
+  },
+  {
+    "Name":"Will Noble",
+    "Score":8
+  },
+  {
+    "Name":"Rokas Zalalis",
+    "Score":8
+  },
+  {
+    "Name":"Kurosh Farhadi",
+    "Score":8
+  },
+  {
+    "Name":"Tom Evans",
+    "Score":8
+  },
+  {
+    "Name":"Paula Hightower",
+    "Score":7
+  },
+  {
+    "Name":"James O'Flynn",
     "Score":6
   },
   {
@@ -36,7 +52,7 @@
     "Score":6
   },
   {
-    "Name":"Tom Finden",
+    "Name":"Natasha Whitehead",
     "Score":6
   },
   {
@@ -44,15 +60,15 @@
     "Score":6
   },
   {
-    "Name":"Tom Evans",
+    "Name":"Giles",
     "Score":6
   },
   {
-    "Name":"Rokas Zalalis",
-    "Score":5
+    "Name":"Rebecca Fowler",
+    "Score":6
   },
   {
-    "Name":"Kurosh Farhadi",
+    "Name":"Nicholas Foggin",
     "Score":5
   },
   {
@@ -60,19 +76,11 @@
     "Score":5
   },
   {
-    "Name":"Will",
-    "Score":5
+    "Name":"Matt Fletcher",
+    "Score":2
   },
   {
-    "Name":"Nicholas Foggin",
-    "Score":5
-  },
-  {
-    "Name":"Natasha Whitehead",
-    "Score":4
-  },
-  {
-    "Name":"Paula Hightower",
-    "Score":4
+    "Name":"Steph Bradley",
+    "Score":1
   }
 ]
