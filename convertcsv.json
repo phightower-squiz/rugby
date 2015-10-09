@@ -1,6 +1,26 @@
 [
   {
+    "Name":"Rokas Zalalis",
+    "Score":26
+  },
+  {
+    "Name":"PJ",
+    "Score":26
+  },
+  {
+    "Name":"Will Noble",
+    "Score":25
+  },
+  {
     "Name":"Kurosh Farhadi",
+    "Score":25
+  },
+  {
+    "Name":"Sam Arnold",
+    "Score":25
+  },
+  {
+    "Name":"Delanthy Joachim",
     "Score":24
   },
   {
@@ -8,44 +28,24 @@
     "Score":24
   },
   {
-    "Name":"Will Noble",
-    "Score":23
-  },
-  {
-    "Name":"PJ",
-    "Score":23
-  },
-  {
     "Name":"Anh",
     "Score":23
   },
   {
-    "Name":"Sam Arnold",
+    "Name":"Alison Van Schoor",
     "Score":23
   },
   {
-    "Name":"Delanthy Joachim",
-    "Score":22
-  },
-  {
-    "Name":"Rokas Zalalis",
-    "Score":22
-  },
-  {
-    "Name":"Alison Van Schoor",
-    "Score":21
-  },
-  {
     "Name":"Tom Evans",
-    "Score":21
+    "Score":23
   },
   {
     "Name":"Paula Hightower",
-    "Score":20
+    "Score":22
   },
   {
     "Name":"Steph Bradley",
-    "Score":18
+    "Score":20
   },
   {
     "Name":"Matt Fletcher",
@@ -56,11 +56,11 @@
     "Score":13
   },
   {
-    "Name":"James O'Flynn",
-    "Score":6
+    "Name":"Loredana Laera (Lori)",
+    "Score":8
   },
   {
-    "Name":"Loredana Laera (Lori)",
+    "Name":"James O'Flynn",
     "Score":6
   },
   {
