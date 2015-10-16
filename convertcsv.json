@@ -1,74 +1,70 @@
 [
   {
     "Name":"Rokas Zalalis",
-    "Score":26
+    "Score":33
   },
   {
     "Name":"PJ",
-    "Score":26
-  },
-  {
-    "Name":"Will Noble",
-    "Score":25
+    "Score":33
   },
   {
     "Name":"Kurosh Farhadi",
-    "Score":25
-  },
-  {
-    "Name":"Sam Arnold",
-    "Score":25
-  },
-  {
-    "Name":"Delanthy Joachim",
-    "Score":24
+    "Score":33
   },
   {
     "Name":"Tom Finden",
-    "Score":24
+    "Score":33
+  },
+  {
+    "Name":"Sam Arnold",
+    "Score":32
+  },
+  {
+    "Name":"Will Noble",
+    "Score":31
+  },
+  {
+    "Name":"Tom Evans",
+    "Score":31
+  },
+  {
+    "Name":"Delanthy Joachim",
+    "Score":30
+  },
+  {
+    "Name":"Paula Hightower",
+    "Score":29
+  },
+  {
+    "Name":"Alison Van Schoor",
+    "Score":28
+  },
+  {
+    "Name":"Steph Bradley",
+    "Score":27
   },
   {
     "Name":"Anh",
     "Score":23
   },
   {
-    "Name":"Alison Van Schoor",
-    "Score":23
-  },
-  {
-    "Name":"Tom Evans",
-    "Score":23
-  },
-  {
-    "Name":"Paula Hightower",
-    "Score":22
-  },
-  {
-    "Name":"Steph Bradley",
-    "Score":20
-  },
-  {
     "Name":"Matt Fletcher",
     "Score":18
+  },
+  {
+    "Name":"Loredana Laera (Lori)",
+    "Score":15
   },
   {
     "Name":"Natasha Whitehead",
     "Score":13
   },
   {
-    "Name":"Loredana Laera (Lori)",
-    "Score":8
+    "Name":"Giles",
+    "Score":6
   },
   {
     "Name":"James O'Flynn",
-    "Score":6
-  },
-  {
-    "Name":"Simon Havil",
-    "Score":6
-  },
-  {
-    "Name":"Giles",
     "Score":6
   },
   {
@@ -76,11 +72,15 @@
     "Score":6
   },
   {
-    "Name":"Nicholas Foggin",
-    "Score":5
+    "Name":"Simon Havil",
+    "Score":6
   },
   {
     "Name":"Jack Burgess",
+    "Score":5
+  },
+  {
+    "Name":"Nicholas Foggin",
     "Score":5
   }
 ]
